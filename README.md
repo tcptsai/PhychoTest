@@ -21,7 +21,7 @@ To deactivate venv:
 ```bash
 $ deactivate
 ```
-To install requirements
+To install requirements:
 ```bash
 $ pip install -r requirements.txt
 ```
